@@ -10,3 +10,7 @@
 
 
 [Tutorial-theory of computing part](https://www.youtube.com/watch?v=O_FWltVBwQM&list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0)
+
+# second mid term part
+
+# Syntax analysing and parsing
